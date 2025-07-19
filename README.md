@@ -14,7 +14,7 @@ The images are in grayscale format (only one channel). They have size 48*48 pixe
 
 Example of images used:
 
-![image1](Screenshots/imagesexample.png)
+<img src="Screenshots/imagesexample.png" alt="example images" width="400"/>
 
 
 ## Model architecture
@@ -62,11 +62,11 @@ validation set, on every epoch. Here we can see the results of the training:
 
 Epoch Loss throughout the training:
 
-![image2](Screenshots/epochloss.png)
+<img src="Screenshots/epochloss.png" alt="epoch loss" width="400"/>
 
 Validation set Accuracy throughout the training:
 
-![image3](Screenshots/validationaccuracy.png)
+<img src="Screenshots/validationaccuracy.png" alt="validation accuracy" width="400"/>
 
 
 
@@ -74,7 +74,7 @@ Validation set Accuracy throughout the training:
 
 For testing purposes, several metrics have been used such as Accuracy, F1-score, Precision, Confusion Matrix… etc. Here we can see the results for our trained model:
 
-![image4](Screenshots/metrics.png)
+<img src="Screenshots/metrics.png" alt="metrics" width="400"/>
 
 Happy -> 0
 Sad -> 1
@@ -86,13 +86,13 @@ Surprised -> 2
 
 Here we can see some of the predictions our model made:
 
-![image5](Screenshots/results.png)
+<img src="Screenshots/results.png" alt="predictions" width="400"/>
 
 
 Some more images (these are random images from the Internet):
 
-![image6](Screenshots/results0.png)
+<img src="Screenshots/results0.png" alt="internet images" width="400"/>
 
 And their predictions:
 
-![image7](Screenshots/results1.png)
+<img src="Screenshots/results1.png" alt="internet predictions" width="400"/>
