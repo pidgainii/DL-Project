@@ -76,3 +76,23 @@ For testing purposes, several metrics have been used such as Accuracy, F1-score,
 
 ![image4](Screenshots/metrics.png)
 
+Happy -> 0
+Sad -> 1
+Surprised -> 2
+
+
+
+## Predictions
+
+Here we can see some of the predictions our model made:
+
+![image5](Screenshots/results.png)
+
+
+Some more images (these are random images from the Internet):
+
+![image6](Screenshots/results0.png)
+
+And their predictions:
+
+![image7](Screenshots/results1.png)
