@@ -14,7 +14,7 @@ The images are in grayscale format (only one channel). They have size 48*48 pixe
 
 Example of images used:
 
-![image1](Screenshots/images.png)
+![image1](Screenshots/imagesexample.png)
 
 
 ## Model architecture
@@ -60,4 +60,19 @@ Architecture:
 Throughout the training process, the loss was recorded, as well as the accuracy on the
 validation set, on every epoch. Here we can see the results of the training:
 
+Epoch Loss throughout the training:
+
+![image2](Screenshots/epochloss.png)
+
+Validation set Accuracy throughout the training:
+
+![image3](Screenshots/validationaccuracy.png)
+
+
+
+
+
+For testing purposes, several metrics have been used such as Accuracy, F1-score, Precision, Confusion Matrix… etc. Here we can see the results for our trained model:
+
+![image4](Screenshots/metrics.png)
 
